@@ -1,10 +1,8 @@
 # Samsung_Tablet_Reset
 
-# Step-by-Step Guide: Removing Government Restrictions \& Resetting a Samsung Tab A9 (Android 15)
-
 # 🚀 Step-by-Step Guide: Removing Government Restrictions & Resetting a Samsung Tab A9 (Android 15)
 
-*This guide condenses the Hindi video (YouTube ID: k7afFwA6ePk) into reproducible steps.*  
+*This guide condenses the Hindi video ([YouTube ID: k7afFwA6ePk](https://www.youtube.com/watch?v=k7afFwA6ePk)) into reproducible steps.*  
 
 ---
 
@@ -127,5 +125,4 @@ pm disable-user --user 0 com.sec.knox.kccagent
 
 <div style="text-align: center">⁂</div>
 
-[^1]: https://www.youtube.com/watch?v=k7afFwA6ePk
 
